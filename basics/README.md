@@ -8,3 +8,4 @@
 	With user and group IDs displayed numerically.
 	And hidden files.
 6. This script creates a directory named "my_first_directory" in the /tmp/ directory.
+7. This script moves the file "betty" from /tmp/ to /tmp/my_first_directory.
