@@ -11,4 +11,5 @@
 	Group: no permission at all.
 	Other users: all the permissions.
 9. This script sets the mode of the file hello to 753.
+10. This script sets the mode of the file hello the same as olleh’s mode.
 
