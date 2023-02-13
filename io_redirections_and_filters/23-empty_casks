@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Ra1 . | find -type f -empty
+ls -1Ra . | find -type f -empty
