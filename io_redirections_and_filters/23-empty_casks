@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1Ra . | find -type f -empty
+find . -name ".*" -type f -empty
